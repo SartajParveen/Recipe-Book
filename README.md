@@ -1,3 +1,44 @@
+### 🍲 **Recipe-Book**  
+```markdown
+# 🍲 Recipe-Book (MERN)
+
+Search, upload, and save favorite recipes with image support.
+
+## 🔧 Tech Stack
+- React, Tailwind CSS
+- Node.js + Express.js, MongoDB
+- Multer for file upload
+
+## 🌐 Features
+- Browse recipes by category
+- Upload your own recipes with image
+- Save favorites list
+
+=
+## 🧪 Installation & Run Locally
+```bash
+git clone https://github.com/SartajParveen/Recipe-Book
+cd Recipe-Book
+npm install
+cd client && npm install
+npm run dev
+
+Search or browse recipes
+
+Upload new ones & view saved favorites
+
+🔍 What I Learned
+Image upload handling
+
+Lazy loading images for performance
+
+Building normalized JSON structures
+
+🛠️ Possible Improvements
+Add AI-recommend recipes
+
+Filter by ingredients or cooking time
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
